@@ -8,7 +8,7 @@ Este projeto é uma recriação do site da SpaceX, uma empresa de exploração e
  
 O site inclui uma ampla gama de recursos, como carrosséis de imagens, vídeos incorporados, animações e muito mais. Ao recriar esses recursos utilizando Bootstrap e Sass, foi possível aprender sobre as tecnologias mais recentes em desenvolvimento web. O Bootstrap é um dos frameworks mais populares para desenvolvimento front-end, oferecendo uma ampla gama de recursos e componentes que podem ser facilmente personalizados. Ao combinar o Bootstrap com Sass, é possível criar estilos ainda mais personalizados e eficientes.
 
-Este projeto foi ideal para como desenvolvedor front-end, aprimorar minhas habilidades e aprender sobre as melhores práticas em design e desenvolvimento web utilizando o Bootstrap e Sass. Ao trabalhar neste projeto, tive a oportunidade de explorar novas tecnologias, testar suas habilidades e adquirir experiência prática em desenvolvimento front-end.
+Como desenvolvedor front-end, este projeto foi ideal para aprimorar minhas habilidades e aprender sobre as melhores práticas em design e desenvolvimento web utilizando o Bootstrap e Sass. Ao trabalhar neste projeto, tive a oportunidade de explorar novas tecnologias, testar suas habilidades e adquirir experiência prática em desenvolvimento front-end.
 
 ## Tecnologias 
 - SaSS <img align="center" alt="Gui-Sass" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
